@@ -91,9 +91,6 @@ access to the system and will see a message saying so within the terminal. If yo
 authentication process you can hold the Control (<kbd>Ctrl</kbd>) key and press the <kbd>c</kbd> key
 to exit and start again.
 
-Note that you may want to paste in your password rather than typing it. Use <kbd>Ctrl</kbd> plus a
-right-click of the mouse to paste content from the clipboard to the PuTTY terminal.
-
 For those logging in with PuTTY it would likely be best to cover the terminal basics already
 mentioned above before moving on to navigating the remote system.
 
