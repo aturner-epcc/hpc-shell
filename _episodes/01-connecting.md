@@ -123,6 +123,17 @@ don't worry! We will cover things in depth as we explore the system further.)
 {{ site.workshop_host_prompt }}
 ```
 
+> ## Passwords and security
+> It is your responsibility to keep you access credentials for the HPC systems secure by choosing
+> strong passwords and passphrases, making sure they cannot be discovered by anyone else and not
+> sharing them with others. You may also need to manage multiple passwords for different systems
+> and services so keeping track of all of the different credentials can be difficult and there can
+> be a strong temptation to write them down or store them in a file. This is insecure and should not
+> be done. You may want to use a password management service to keep track of your different
+> credentials instead. There are many different services out there to choose from - some with free
+> options.
+{: .callout}
+
 ## Telling the Difference between the Local Terminal and the Remote Terminal
 
 You may have noticed that the prompt changed when you logged into the remote system using the
